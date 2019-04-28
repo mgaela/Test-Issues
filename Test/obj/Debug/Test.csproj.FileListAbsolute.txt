@@ -1,0 +1,6 @@
+D:\rlf\学习\Test\Test\bin\Debug\Test.exe.config
+D:\rlf\学习\Test\Test\bin\Debug\Test.exe
+D:\rlf\学习\Test\Test\bin\Debug\Test.pdb
+D:\rlf\学习\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\rlf\学习\Test\Test\obj\Debug\Test.exe
+D:\rlf\学习\Test\Test\obj\Debug\Test.pdb
